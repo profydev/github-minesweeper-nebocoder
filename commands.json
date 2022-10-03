@@ -1,3 +1,12 @@
 {
-  "commands": ["Clear H8", "Flag F3", "Clear A8", "Clear F4"]
+  "commands": [
+    "Clear H8",
+    "Flag F3",
+    "Clear A8",
+    "Clear F4",
+    "Flag F5",
+    "Clear F6",
+    "Flag F7",
+    "Clear F8"
+  ]
 }
